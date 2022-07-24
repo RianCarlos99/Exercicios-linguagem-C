@@ -1,0 +1,14 @@
+{
+    "[c]": {
+        "editor.wordBasedSuggestions": false,
+        "editor.suggest.insertMode": "replace",
+        "editor.semanticHighlighting.enabled": true,
+        "files.encoding": "iso88591",
+    },
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "stdbool.h": "c",
+        "stdio.h": "c",
+        "ASD.C": "cpp"
+    }
+}
